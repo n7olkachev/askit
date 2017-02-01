@@ -1,0 +1,27 @@
+{
+  "name": "askit",
+  "version": "0.1.0",
+  "description": "Async Kit for modern JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n7olkachev/askit.git"
+  },
+  "keywords": [
+    "async",
+    "channel",
+    "deferred",
+    "mutex",
+    "semaphore",
+    "sleep"
+  ],
+  "author": "Nikita Tolkachev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n7olkachev/askit/issues"
+  },
+  "homepage": "https://github.com/n7olkachev/askit#readme"
+}
